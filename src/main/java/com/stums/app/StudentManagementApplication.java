@@ -7,7 +7,7 @@ import org.apache.logging.log4j.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//Spring Boot Application entry point to access financial email records from users email inbox.
+//Spring Boot Application entry point to access students records from database.
 @SpringBootApplication
 public class StudentManagementApplication {
 
